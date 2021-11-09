@@ -1,0 +1,13 @@
+ASCII CODE TO DECRYPT:
+135  72  213  146  21  59  205  108  
+
+DES DECRYPTION
+
+ASCII-Encoding	Char
+83		 S
+116		 t
+101		 e
+118		 v
+101		 e
+110		 n
+87		 W
