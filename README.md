@@ -1,5 +1,5 @@
 # DES-Encryptor-Decryptor
-Information-Security-Task
+Information-Security-Task, by Steven Wijaya. Student of Tomsk State University, Tomsk, Russia. Institue of Applied Mathematics and Computer Science.
 ## Process
 1. Run the file "DESEncryptDecrypt.cpp".
 2. Input text you want to encrypt. **IMPORTANT: Maximum length of text are 8 characters**
